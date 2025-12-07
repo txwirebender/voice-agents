@@ -3,7 +3,7 @@ Lab 12 Building Your Voice Agent - Conversational AI in Action
 
 
 1)	Branch Design Challenge:
-a)	The most challenging part of designing the branches was figuring out how it all worked. I ended up playing around a bit at first and then began with a template. From there I added the subagents and end call conditions. After an hour or so it became easy to work with and design.**
+a)	The most challenging part of designing the branches was figuring out how it all worked. I ended up playing around a bit at first and then began with a template. From there I added the subagents and end call conditions. After an hour or so it became easy to work with and design.*
 b)	I was amazed, again, by how this technology works. Incredible in what it can do, how it can simplify questions, information gathering, and be very educational. The ability to answer the questions with completeness and accuracy along with being able to be interrupted and easily move to another topic within the agent.
 
 2)	Knowledge Base Impact:
